@@ -1,6 +1,6 @@
 # grena website (www.grena.fr)
 
-The Jekyll build for [toddmotto.com](http://toddmotto.com).
+The Jekyll build for [www.grena.fr](http://www.grena.fr).
 **Based on [Todd Motto's jekyll builder](https://github.com/toddmotto/toddmotto.github.io).**
 
 ## License
