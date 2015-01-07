@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+    <article class="post clear">
+      <h1 class="post__title">
+        {{ page.title }}
+      </h1>
+      <div class="post__meta">
+        {%if page.path %}
+        <a class="post__meta-edit" href="//github.com/grena/grena.github.io/blob/master/_posts/{{ page.path }}">
+          <i class="fa fa-github"></i>
+          Edit this page on GitHub
+        </a>
+        {% endif %}
+        <p>
+          {{ page.date | date: "%B %d, %Y" }}
+        </p>
+      </div>
+
+      <div class="post__content">
+        {{ content }}
+      </div>
+
+      <div class="disqus">
+        <div id="disqus_thread"></div>
+      </div>
+    </article>
+
+    <script>
+      var disqus_url = {%if page.disqus %}'{{ page.disqus }}'{%else %}'http://www.grena.fr{{ page.url }}'{% endif %};
+      var disqus_title = '{{ page.title }}';
+      var disqus_shortname = 'grena';
+      (function() {
+        var dsq = document.createElement('script');
+        dsq.async = dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        document.getElementsByTagName('head')[0].appendChild(dsq);
+      })();
+    </script>

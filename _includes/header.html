@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <!-- <base href="http://www.grena.fr/assets/"> -->
+    <base href="http://127.0.0.1:4000/assets/">
+    <meta name="description" content="Humain de type développeur - PHP, JavaScript et autres trucs.">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+    <link href="css/style.min.css" rel="stylesheet">
+  </head>
+  <body{% if page.class %} class="{{ page.class }}"{% endif %}>
+
+    <div class="sidebar clear">
+      <div class="sidebar__profile">
+        <a href="/">
+          <img src="img/adrien.jpg" alt="Adrien" class="sidebar__profile-img">
+        </a>
+        <h1 class="sidebar__profile-name">
+          grena
+        </h1>
+        <div class="sidebar__profile-bio clear">
+          <p>
+            Core developer <a href="//twitter.com/akeneopim">@akeneopim</a>. <br>
+            PHP &amp; JavaScript.<br>
+            Mais j'aime bien parler d'autres trucs aussi. <br>
+          </p>
+        </div>
+        <nav class="sidebar__profile-nav">
+          <ul>
+            <li>
+              <a href="/">
+                Posts
+              </a>
+            </li>
+            <li>
+              <a href="/projects">
+                Projects
+              </a>
+            </li>
+            <li>
+              <a href="//twitter.com/grenagluman">
+                Twitter
+              </a>
+            </li>
+            <li>
+              <a href="//www.grena.fr/feed.xml">
+                RSS
+              </a>
+            </li>
+            <li>
+              <a href="//github.com/grena">
+                GitHub
+              </a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+
