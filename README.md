@@ -3,6 +3,17 @@
 The Jekyll build for [www.grena.fr](http://www.grena.fr).
 **Based on [Todd Motto's jekyll builder](https://github.com/toddmotto/toddmotto.github.io).**
 
+## Install
+
+```
+gem install jekyll rdiscount
+git clone git@github.com:grena/grena.github.io.git
+cd grena.github.io
+npm install
+grunt build # Maybe you'll need to 'sudo npm install grunt-cli --g' before
+jekyll serve
+```
+
 ## License
 
 #### The MIT License (MIT)
