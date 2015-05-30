@@ -37,13 +37,6 @@
     font-size: 16px;
     font-style: italic;
   }
-  ul {
-    li {
-      a {
-        font-weight: 900;
-      }
-    }
-  }
 }
 .post__title,
 .page__title {
@@ -84,7 +77,7 @@
   padding: 2px 8px 2px 25px;
   border-radius: 3px;
   font-size: 12px;
-  font-weight: 900;
+  font-weight: 500;
   i {
     font-size: 14px;
     @include position(absolute, 4px 0 0 7px);
