@@ -28,17 +28,17 @@ Vous vous doutez bien que la force de ces lecteurs est leur capacité à se "plu
 
 <div class="img-legend">
     <img src="/assets/img/posts/cubic1.png" class="img-thumbnail ">
-    <span>The smooth button on Soundcloud</span>
+    <span>Le bouton intégré à Soundcloud</span>
 </div>
 
 <div class="img-legend">
     <img src="/assets/img/posts/cubic2.png" class="img-thumbnail img-center">
-    <span>Here it is on YouTube</span>
+    <span>Le voici sur YouTube</span>
 </div>
 
 <div class="img-legend">
     <img src="/assets/img/posts/cubic3.png" class="img-thumbnail img-center">
-    <span>The link on Facebook</span>
+    <span>Son intégration à Facebook</span>
 </div>
 
 Il y a une belle liste (Soundcloud, YouTube, Shazam, Facebook, Twitter, iTunes, Reddit, 8tracks...), et on imagine qu'elle ne peut que s'accroître.
