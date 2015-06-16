@@ -156,3 +156,17 @@
     @include position(absolute, 0px 0 0 0px);
   }
 }
+.img-legend {
+  text-align: center;
+  margin-bottom: 15px;
+
+  span {
+    font-size: 12px;
+    color: #999999;
+  }
+
+  img {
+    display: block !important;
+    margin: 0 auto;
+  }
+}
