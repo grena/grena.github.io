@@ -29,7 +29,7 @@ layout: default
 
     <script>
       var disqus_url = {%if page.disqus %}'{{ page.disqus }}'{%else %}'http://www.grena.fr{{ page.url }}'{% endif %};
-      var disqus_title = '{{ page.title }}';
+      var disqus_title = "{{ page.title | replace:'\'', 'b' }}";
       var disqus_shortname = 'grena';
       (function() {
         var dsq = document.createElement('script');
