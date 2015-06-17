@@ -48,8 +48,11 @@ Les musiques ainsi grapillées aux quatres coins du web se retrouvent ensuite su
 <img src="/assets/img/posts/cubic4.png" class="img-thumbnail">
 
 C'est épuré et ça va droit à l'essentiel, c'est que je j'apprécie.
-Petit gâteau sur la cerise : si la source de votre media venait à disparaître (vous savez, ces vidéos YouTube qui deviennent indisponible d'un coup), et bien cubic est assez intelligent pour automatiquement trouver une autre source de lecture (Soundcloud, Deezer...) :
+Petit gâteau sur la cerise : si la source de votre media venait à disparaître (vous savez, ces vidéos YouTube qui deviennent indisponible d'un coup), et bien cubic est assez intelligent pour automatiquement trouver une autre source de lecture (Soundcloud, Deezer...)
 
-<img src="/assets/img/posts/cubic5.png" class="img-thumbnail">
+<div class="img-legend">
+    <img src="/assets/img/posts/cubic5.png" class="img-thumbnail">
+    <span>Vuus pouvez changer la source de lecture du media</span>
+</div>
 
 Les devs tiennent un [blog](http://blog.cubic.fm/) assez intéressant sur l'évolution des habitudes d'écoute et je partage souvent leur point de vu. A voir ce que ça va donner, mais je pense qu'il y a du potentiel.
