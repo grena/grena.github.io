@@ -47,7 +47,7 @@ Les musiques ainsi grapillées aux quatres coins du web se retrouvent ensuite su
 
 <img src="/assets/img/posts/cubic4.png" class="img-thumbnail">
 
-C'est épuré et ça va droit à l'essentiel, c'est que je j'apprécie.
+C'est épuré et ça va droit à l'essentiel, c'est ce que j'apprécie.
 Petit gâteau sur la cerise : si la source de votre media venait à disparaître (vous savez, ces vidéos YouTube qui deviennent indisponible d'un coup), et bien cubic est assez intelligent pour automatiquement trouver une autre source de lecture (Soundcloud, Deezer...)
 
 <div class="img-legend">
