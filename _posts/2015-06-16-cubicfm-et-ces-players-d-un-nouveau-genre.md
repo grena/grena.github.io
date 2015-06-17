@@ -52,7 +52,7 @@ Petit gâteau sur la cerise : si la source de votre media venait à disparaître
 
 <div class="img-legend">
     <img src="/assets/img/posts/cubic5.png" class="img-thumbnail">
-    <span>Vuus pouvez changer la source de lecture du media</span>
+    <span>Vous pouvez changer la source de lecture du media</span>
 </div>
 
 Les devs tiennent un [blog](http://blog.cubic.fm/) assez intéressant sur l'évolution des habitudes d'écoute et je partage souvent leur point de vu. A voir ce que ça va donner, mais je pense qu'il y a du potentiel.
