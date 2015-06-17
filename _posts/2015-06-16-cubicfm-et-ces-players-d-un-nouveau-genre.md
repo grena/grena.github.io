@@ -43,7 +43,7 @@ Vous vous doutez bien que la force de ces lecteurs est leur capacité à se "plu
 
 Il y a une belle liste (Soundcloud, YouTube, Shazam, Facebook, Twitter, iTunes, Reddit, 8tracks...), et on imagine qu'elle ne peut que s'accroître.
 
-Les musiques ainsi grapillées aux quatres coins du wev se retrouvent ensuite sur le lecteur en ligne, avec la possibilité d'organiser tout ça dans des "channels", des playlists en somme :
+Les musiques ainsi grapillées aux quatres coins du web se retrouvent ensuite sur le lecteur en ligne, avec la possibilité d'organiser tout ça dans des "channels", des playlists en somme :
 
 <img src="/assets/img/posts/cubic4.png" class="img-thumbnail">
 
