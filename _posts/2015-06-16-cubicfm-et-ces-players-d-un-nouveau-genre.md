@@ -16,7 +16,7 @@ On l'a vu, les sources évoluent, mais les lecteurs suivent. Depuis quelques tem
 
 - [songdrop.com](https://songdrop.com), capable d'aggréger la musique provenant de Soundcloud/YouTube.
 - [songpeek.com](http://www.songpeek.com/) qui tape sur YouTube pour réunir les tracks d'un même album/artiste afin d'en faciliter l'écoute.
-- [whyd.com](http://whyd.com/), plus axés social, qui draine aussi les géants (YouTube/Soundcloud) et qui permet de créer ses playlists et de "follow" les autres utilisateurs pour faire de nouvelles découvertes.
+- [whyd.com](http://whyd.com/), plus orienté social, qui draine aussi les géants (YouTube/Soundcloud) et qui permet de créer ses playlists et de "follow" les autres utilisateurs pour faire de nouvelles découvertes.
 
 Un nouveau genre de lecteur un peu bâtard donc, qui se cherche encore. Difficile de se faire une place, tout le monde a déjà sa petite popote et ses 39 playlists sur ses lecteurs favoris. Si ces trucs peuvent m'éviter d'éclater ma banque de sons entre X sites, alors je veux bien tenter l'expérience. J'aime vraiment voir ça comme des bookmarks-manager-musicaux.
 
