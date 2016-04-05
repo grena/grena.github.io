@@ -1,5 +1,5 @@
 markdown: rdiscount
-highlighter: pygments
+highlighter: rouge
 exclude: ['README.md', 'src/', 'node_modules', 'package.json', 'Gruntfile.js', '*.command']
 permalink: /:year/:month/:title
 paginate: 10
