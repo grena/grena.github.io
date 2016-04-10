@@ -25,7 +25,7 @@ So as a user, if I want to search every notes containing "Hello", I'm a bit stuc
 </div>
 
 As you can see, the server will gently respond "No sir, no note with 'Hello' inside, sorry."
-After googling this subject, I found an interesting topic on StackExchange: http://crypto.stackexchange.com/questions/3446/is-it-possible-to-match-encrypted-documents-using-user-defined-search-terms
+After googling this subject, I found [an interesting topic on StackExchange](http://crypto.stackexchange.com/questions/3446/is-it-possible-to-match-encrypted-documents-using-user-defined-search-terms).
 There are some kind of solutions, but it's hard to setup, at least, **with my current knowledge**. Plus I want Gruik to have a simple setup.
 
 ## An alternative search?
