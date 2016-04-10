@@ -31,7 +31,8 @@ There are some kind of solutions, but it's hard to setup, at least, **with my cu
 ## An alternative search?
 I can't really drop the search feature, neither **load all notes in client memory** in order to search on decrypted content...
 So I came to this solution to continue the development:
-    - Text search won't be possible on private note (*encrypted ones*), but available on public ones
-    - We'll still be able to search notes with tags & maybe some kind of categories
+    
+- Text search won't be possible on private note (*encrypted ones*), but available on public ones
+- We'll still be able to search notes with tags & maybe some kind of categories
 
 If anyone has a nice solution to this, please let me know about it :)
