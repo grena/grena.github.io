@@ -43,9 +43,9 @@ Le but est de **créer de l'engagement** chez l'utilisateur / client, lui faire 
 
 Alors la gamification ça existait avant d'avoir un nom, sûrement très connu par les psychologues et autres analystes. Le sujet s'est popularisé depuis quelques années, donnant de superbes articles ou talks. Je me permets de vous en partager quelques-uns :
 
-- https://www.ted.com/talks/seth_priebatsch_the_game_layer_on_top_of_the_world (**Bonne intro sur le concept**)
-- https://www.youtube.com/watch?v=KyamsZXXF2w (**Super talk, il fait un excellent parallèle avec les jeux-vidéo**)
-- http://www.gamified.uk/ (**Un peu la bible sur le sujet, beaucoup d'infographies et d'articles**)
+- [www.ted.com/talks/seth_priebatsch_the_game_layer_on_top_of_the_world](https://www.ted.com/talks/seth_priebatsch_the_game_layer_on_top_of_the_world) (**Bonne intro sur le concept**)
+- [www.youtube.com/watch?v=KyamsZXXF2w](https://www.youtube.com/watch?v=KyamsZXXF2w) (**Super talk, il fait un excellent parallèle avec les jeux-vidéo**)
+- [www.gamified.uk](http://www.gamified.uk/) (**Un peu la bible sur le sujet, beaucoup d'infographies et d'articles**)
 
 Bref, y a tout un tas de ressources intéressantes sur ce sujet.
 
