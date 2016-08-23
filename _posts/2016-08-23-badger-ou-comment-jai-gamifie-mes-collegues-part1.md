@@ -1,5 +1,5 @@
 ---
-title: "Badger, ou comment j'ai \"gamifié\" mes collègues (Part. 1)"
+title: "Badger, ou comment j'ai 'gamifié' mes collègues (Part. 1)"
 author: grena
 layout: post
 permalink: /badger-ou-comment-jai-gamifie-mes-collegues-part1
