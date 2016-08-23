@@ -47,6 +47,7 @@ Alors la gamification ça existait avant d'avoir un nom, sûrement très connu p
 - https://www.youtube.com/watch?v=KyamsZXXF2w (**Super talk, il fait un excellent parallèle avec les jeux-vidéo**)
 - http://www.gamified.uk/ (**Un peu la bible sur le sujet, beaucoup d'infographies et d'articles**)
 
+
 ## Comment j'ai "gamifié" mes collègues
 
 J'aime le jeu-vidéo et je suis curieux à propos du comportement humain en général, alors un machin qui regroupe ces deux sujets ne peut que me faire de l’œil ! Il fallait que j'essaie de développer un "jeu d'expérimentation sociale".
@@ -60,13 +61,14 @@ Pour introduire le concept, les premiers badges à débloquer sont plutôt funs 
 - "Avoir posté 42 messages sur notre forum de support"
 - "Etre allé manger une semaine entière au restaurant du coin"...
 
+
 <div class="img-legend">
     <img src="/assets/img/posts/badge-mustache.png" class="img-thumbnail ">
 </div>
 
 Lancement de la plateforme : on montre ça à 2/3 collègues... l'url du projet se répand vite en interne et l'ensemble de la boîte se retrouve inscrit en 3 jours. Les gens commencent à réclamer leur badge, des gens relèvent le défi de la moustache ou d'autres trucs cons, mais les gens ont adopté le concept, ils proposent même de nouveaux badges à créer pour récompenser telle ou telle action...
 
-Un véritable engouement interne autour de la collection de ces pins 2.0, générant des "Hey Michel, t'as pas le badge de [insérer nom de badge] ? T'es naze !" pendant les vendredi soirs ~~arrosés~~.
+Un véritable engouement interne autour de la collection de ces pins 2.0, générant des "_Hey Michel, t'as pas le badge de [insérer nom de badge] ? T'es naze !_" pendant les vendredi soirs ~~arrosés~~.
 
 <div class="img-legend">
     <img src="/assets/img/posts/applause.gif" class="img-thumbnail ">
