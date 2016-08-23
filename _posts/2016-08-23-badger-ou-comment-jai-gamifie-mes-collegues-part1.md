@@ -47,6 +47,7 @@ Alors la gamification ça existait avant d'avoir un nom, sûrement très connu p
 - https://www.youtube.com/watch?v=KyamsZXXF2w (**Super talk, il fait un excellent parallèle avec les jeux-vidéo**)
 - http://www.gamified.uk/ (**Un peu la bible sur le sujet, beaucoup d'infographies et d'articles**)
 
+Bref, y a tout un tas de ressources intéressantes sur ce sujet.
 
 ## Comment j'ai "gamifié" mes collègues
 
@@ -59,8 +60,10 @@ Pour introduire le concept, les premiers badges à débloquer sont plutôt funs 
 
 - "Avoir porté la moustache au boulot pendant une journée"
 - "Avoir posté 42 messages sur notre forum de support"
-- "Etre allé manger une semaine entière au restaurant du coin"...
+- "Etre allé manger une semaine entière au restaurant du coin"
+- etc.
 
+Des badges surtout pour faire découvrir la plateforme aux gens à vrai dire.
 
 <div class="img-legend">
     <img src="/assets/img/posts/badge-mustache.png" class="img-thumbnail ">
