@@ -4,6 +4,7 @@ author: grena
 layout: post
 permalink: /badger-ou-comment-jai-gamifie-mes-collegues-part1
 disqus: http://www.grena.fr/badger-ou-comment-jai-gamifie-mes-collegues-part1
+date: 2016-08-23 20:12:10
 path: 2016-08-23-badger-ou-comment-jai-gamifie-mes-collegues-part1.md
 ---
 
