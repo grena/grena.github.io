@@ -15,7 +15,7 @@ For now, and as it's quite hard to gather 10 people the same weekend, we decided
 
 3 Game Jams later, I thought it was sad to "loose" contact of all previous jams and games. The other problem is that it was hard to share the whole Jam result to all curious people through social medias. That's why I decided to create a simple static website to gather all the Akeneo Game Jams information as well as games. You can now play all games we made during the jams! "**victory trumpet sound**"
 
-https://akeneo.github.io/gamejam/
+[https://akeneo.github.io/gamejam/](https://akeneo.github.io/gamejam/)
 
 ### How does it work?
 
