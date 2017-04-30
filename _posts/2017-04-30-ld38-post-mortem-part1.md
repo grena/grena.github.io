@@ -29,7 +29,7 @@ Here is the dream team, in a chaotic order:
 - **Mylène Larnaud** - Pixel art illustrations
 - **Adrien “grena” Pétremann** - Code, gameplay, story
 
-<div class="img-legend">
+<div class="img-legend" style="margin-top: 30px;">
     <img src="/assets/img/posts/ld38-pizzas.jpg" class="img-thumbnail ">
     <span>From left to right: Baptiste, Nicolas, Geoffrey, Gildas and Pierre</span>
 </div>
@@ -40,10 +40,10 @@ This way, we could end up with a coherent visual & audio experience.
 Mylène joined us on Sunday to draw the lovely & stunning pixel art illustrations we used to visually bring life to the small world:
 
 <div class="img-legend">
-    <img src="/assets/img/posts/ld38-rocky-mountain.png" class="img-thumbnail ">
-    <img src="/assets/img/posts/ld38-ice-field.png" class="img-thumbnail ">
-    <img src="/assets/img/posts/ld38-sand-desert.png" class="img-thumbnail ">
-    <span>Pixel art biomes, aka pictures sent by VJ-Net42, by Mylène Larnaud.</span>
+    <img style="display: inline !important;" src="/assets/img/posts/ld38-rocky-mountain.png" class="img-thumbnail ">
+    <img style="display: inline !important;" src="/assets/img/posts/ld38-ice-field.png" class="img-thumbnail ">
+    <img style="display: inline !important;" src="/assets/img/posts/ld38-sand-desert.png" class="img-thumbnail ">
+    <span style="display: block !important;">Pixel art biomes, aka pictures sent by VJ-Net42, by Mylène Larnaud.</span>
 </div>
 
 As Pierre is mastering 3D rendering, he made the scene with the pod computer, and the 2 first “cinematic” pictures. \o/
