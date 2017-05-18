@@ -102,6 +102,9 @@ With this refactor, we could simply play a sound, plus show an image & some text
 
 Baptiste continued his work on sound, now we had the nice computer boot sound and buzz errors when the command was invalid!
 
+> At this time, we roughly implemented **the landing of the Rover** (VJ-Net42), with this very special sound and squeaks.
+To me it's a huge part of the game (_it's one of my favorite_). The only direct action you can take in the game, and the last time VJ-Net42 will be physically with you, on the pod...
+
 ## 02h15
 The last 2 hours of the day were interesting. When it’s becoming late, it’s easy to fall in the trap of “refactoring” and “implementing this oh-so-crazy idea that could be great”. But it’s **NEVER a good idea**!
 
