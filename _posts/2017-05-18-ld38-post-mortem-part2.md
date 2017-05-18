@@ -82,6 +82,11 @@ planet and **give feeling to the player**.
 
 As a bonus, we added the nice screen scanning effect, a modified version of [this WebGL effect](http://glslsandbox.com/e#18578.0).
 
+<div class="img-legend" style="margin-top: 30px;">
+    <img src="/assets/img/posts/ld38-p2-screenfx.png" class="img-thumbnail ">
+    <span>How we handle the screen FX.</span>
+</div>
+
 ## 00h20
 For more than 2 hours, we refactored (yes, during a Game Jam hahah) the way we displayed messages to the terminal. We have indeed 3 outputs:
 - The Terminal screen itself
