@@ -1,5 +1,5 @@
 ---
-title: "Laravel >= 4.1 : prudence avec le driver des sessions"
+title: "[FR] Laravel >= 4.1 : prudence avec le driver des sessions"
 author: grena
 layout: post
 permalink: /laravel-4-1-prudence-avec-le-driver-des-sessions
