@@ -1,5 +1,5 @@
 ---
-title: "Quand l'erreur 37 part à la quête du Graal"
+title: "[FR] Quand l'erreur 37 part à la quête du Graal"
 author: grena
 layout: post
 permalink: /quand-lerreur-37-part-a-la-quete-du-graal
