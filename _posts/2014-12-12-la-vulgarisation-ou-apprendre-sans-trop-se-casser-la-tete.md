@@ -1,5 +1,5 @@
 ---
-title: "La vulgarisation, ou apprendre sans trop se casser la tête"
+title: "[FR] La vulgarisation, ou apprendre sans trop se casser la tête"
 author: grena
 layout: post
 permalink: /la-vulgarisation-ou-apprendre-sans-trop-se-casser-la-tete
