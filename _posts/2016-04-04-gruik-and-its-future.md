@@ -1,5 +1,5 @@
 ---
-title: "[EN] Gruik and its future"
+title: "Gruik and its future"
 author: grena
 layout: post
 permalink: /gruik-and-its-future
