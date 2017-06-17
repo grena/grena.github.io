@@ -1,5 +1,5 @@
 ---
-title: Ne pas se viander en Lua
+title: [FR] Ne pas se viander en Lua
 author: grena
 layout: post
 permalink: /ne-pas-se-viander-en-lua
