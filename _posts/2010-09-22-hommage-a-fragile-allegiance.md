@@ -1,5 +1,5 @@
 ---
-title: "Hommage à Fragile Allegiance"
+title: "[FR] Hommage à Fragile Allegiance"
 author: grena
 layout: post
 permalink: /hommage-a-fragile-allegiance
