@@ -1,5 +1,5 @@
 ---
-title: "[EN] Search on encrypted content"
+title: "Search on encrypted content"
 author: grena
 layout: post
 permalink: /search-on-encrypted-content
