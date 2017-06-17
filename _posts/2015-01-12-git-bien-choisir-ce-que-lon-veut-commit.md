@@ -1,5 +1,5 @@
 ---
-title: "git : bien choisir ce que l'on veut commit"
+title: "[FR] git : bien choisir ce que l'on veut commit"
 author: grena
 layout: post
 permalink: /git-bien-choisir-ce-que-lon-veut-commit
