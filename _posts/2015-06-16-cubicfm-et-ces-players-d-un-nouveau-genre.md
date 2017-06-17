@@ -1,5 +1,5 @@
 ---
-title: "cubic.fm et ces players d'un nouveau genre"
+title: "[FR] cubic.fm et ces players d'un nouveau genre"
 author: grena
 layout: post
 permalink: /cubicfm-et-ces-players-d-un-nouveau-genre
