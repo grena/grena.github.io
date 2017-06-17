@@ -1,5 +1,5 @@
 ---
-title: "Lua et Middleclass, attention à initialize() (Obsolète)"
+title: "[FR] Lua et Middleclass, attention à initialize() (Obsolète)"
 author: grena
 layout: post
 permalink: /lua-et-middleclass-attention-a-initialize
